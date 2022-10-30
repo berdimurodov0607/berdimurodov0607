@@ -4,7 +4,7 @@ I am a frontend developer and web designer <br/>
 ### Languages and tools I work with:
 
 
-<code><img src="https://img2.freepng.ru/20180614/jjy/kisspng-html5-video-web-development-cascading-style-sheets-social-developmnet-5b22567fa943c7.9844029615289770236933.jpg" width="30px"></code>
+<code><img src="hhttps://img.favpng.com/4/23/21/responsive-web-design-html-computer-icons-css3-world-wide-web-consortium-png-favpng-N5Cgzsntj8KuEqXAzrfGCnF2X.jpg" width="30px"></code>
 <code><img src="" width="30px"></code>
 <code><img src="" width="30px"></code>
 <code><img src="" width="30px"></code>
