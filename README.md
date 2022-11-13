@@ -12,7 +12,7 @@ I am a frontend developer and web designer <br/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="30px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="30px">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="30px">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="30px">
+<img src="https://stp-cdn.lottiefiles.com/xd_logo_6ca0e1c2c7_ea48c94a5c.png" width="30px">
   </div>
 
 <br/>
